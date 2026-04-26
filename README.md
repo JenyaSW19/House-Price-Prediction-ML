@@ -13,10 +13,9 @@
 Ниже представлены графики, подтверждающие корректность работы нашего алгоритма:
 
 ### Кривая обучения (Loss Curve)
-![Loss Curve](images/Learning%20Curve%20(Loss%20Function%20Decay).png)
-
+![Loss Curve](images/loss.png)
 ### Прогноз vs Реальность
-![Prediction vs Reality](images/Actual%20vs.%20Predicted%20Prices%20(Regression%20Analysis).png)
+![Prediction vs Reality](images/predict.png)
 ## 🛠 Стек технологий
 * Google Colab / Python
 * NumPy (для математических вычислений)
