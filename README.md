@@ -17,7 +17,6 @@
 
 ### Прогноз vs Реальность
 ![Prediction vs Reality](images/Actual%20vs.%20Predicted%20Prices%20(Regression%20Analysis).png)
-
 ## 🛠 Стек технологий
 * Google Colab / Python
 * NumPy (для математических вычислений)
